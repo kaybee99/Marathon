@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<results>
+<!-- Project name: 'rubyTrial' - Report dir: 'ju-2014-12-08-16-19-17' - START -->
+<!-- Testsuite name: 'AllTests' - START -->
+  <!-- Testsuite name: 'testMikeDemo' - START -->
+    <testcase external_id="testMikeDemo - Extracted Data" >
+    <result>p</result>
+    <notes></notes>
+    </testcase>
+  <!-- Testsuite name: 'testMikeDemo' - END -->
+<!-- Testsuite name: 'AllTests' - END -->
+<!-- Project name: 'rubyTrial' - Report dir: 'ju-2014-12-08-16-19-17' - END -->
+</results>

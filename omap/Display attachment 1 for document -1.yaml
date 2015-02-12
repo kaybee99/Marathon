@@ -1,0 +1,40 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnCancel}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1053,y=556]'}
+    - {name: accessibleName, value: Cancel}
+    - {name: cText, value: Cancel}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnCancel}
+    - {name: accessibleContext.accessibleName, value: Cancel}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=73,height=26]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Cancel}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Cancel}
+    name: Cancel
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnOpen}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1009,y=540]'}
+    - {name: accessibleName, value: Open}
+    - {name: cText, value: Open}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnOpen}
+    - {name: accessibleContext.accessibleName, value: Open}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=72,height=25]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Open}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Open}
+    name: Open

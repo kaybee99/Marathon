@@ -1,0 +1,193 @@
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: contains, name: title, value: '- Login '}
+    containerTitles: ['UAT5 (LOCAL) - Login     ', 'UAT2 (LOCAL) - Login     ']
+    fileName: UAT (LOCAL) - Login.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: contains, name: title, value: '- Welcome     Logged on as '}
+    containerTitles: [UAT5 (ERSUAT5B) - Welcome     Logged on as mike.gartlan, UAT2 (ERSUAT2B) - Welcome     Logged on as mike.gartlan]
+    fileName: UAT (LOCAL) - Welcome.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: contains, name: title, value: '- Customer Enquiry'}
+    containerTitles: [UAT5 (ERSUAT5B) - Customer Enquiry     Logged on as mike.gartlan,
+        UAT2 (ERSUAT2B) - Customer Enquiry     Logged on as mike.gartlan]
+    fileName: UAT (LOCAL) - Customer Enquiry.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: contains, name: title, value: '- Contract Enquiry'}
+    containerTitles: [UAT5 (ERSUAT5B) - Contract Enquiry     Logged on as mike.gartlan,
+        UAT2 (ERSUAT2B) - Contract Enquiry     Logged on as mike.gartlan]
+    fileName: UAT (LOCAL) - Contract Enquiry.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: uk.co.edwt.frm.client.framework.StandardDialog}
+    containerTitles: [Add new charge, Create MPAN Statement of Account for A36944 CST IRISH IMPORTS LIMITED,
+        Customer Billing Filter, Confirm Issue Bills, Ad Hoc Charges for A36944 CST IRISH IMPORTS LIMITED,
+        Manage Collections for A36944 CST IRISH IMPORTS LIMITED]
+    fileName: Filter.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: contains, name: title, value: ' - Document Imaging - Document Work
+            Lists     '}
+    containerTitles: []
+    fileName: UAT (LOCAL) - Document Imaging - Document Work Lists.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: contains, name: title, value: ' - Master Customer Administration'}
+    containerTitles: [UAT2 (ERSUAT2B) - Master Customer Administration     Logged on as mike.gartlan,
+        UAT5 (ERSUAT5B) - Master Customer Administration     Logged on as mike.gartlan]
+    fileName: UAT (LOCAL) - Master Customer Administration.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: uk.co.edwt.pos.client.billing.PCBBillReviewAndInitiationSupplyFrame}
+    containerTitles: []
+    fileName: Billing Details_ Supply_2000054456421, Import.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: uk.co.edwt.frm.client.commondialogs.FileOpener}
+    containerTitles: []
+    fileName: Display attachment 1 for document -1.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: uk.co.edwt.frm.client.components.EOptionPane}
+    containerTitles: [Confirm, Creating Account Statement(s), Error, Information]
+    fileName: Logon Error.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: contains, name: title, value: ' - Printing R2     '}
+    containerTitles: []
+    fileName: UAT (LOCAL) - Printing R2.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: 'UAT2 (ERSUAT2B) - Logout     '}
+    containerTitles: ['UAT2 (ERSUAT2B) - Logout     ']
+    fileName: UAT (LOCAL) - Logout.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: null
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: Energy Retail Suite}
+    containerTitles: [Energy Retail Suite]
+    fileName: Energy Retail Suite.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: position, value: '[x=87,y=74]'}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: oMapClassName, value: uk.co.edwt.wfm.client.status.WITQueryFrame}
+    - {name: size, value: '[width=1513,height=722]'}
+    - {name: oMapClassSimpleName, value: WITQueryFrame}
+    - {name: title, value: WIT 1 - Aged Debt and Credit Report (by Transaction Date)}
+    - {name: component.class.simpleName, value: WITQueryFrame}
+    - {name: name, value: frame2}
+    - {name: component.class.name, value: uk.co.edwt.wfm.client.status.WITQueryFrame}
+    - {name: accessibleContext.accessibleName, value: WIT 1 - Aged Debt and Credit Report (by Transaction Date)}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: uk.co.edwt.wfm.client.status.WITQueryFrame}
+    containerTitles: [WIT 1 - Aged Debt and Credit Report (by Transaction Date), WIT 1 - Cashflow Detail Report]
+    fileName: WIT 1 - Aged Debt and Credit Report (by Transaction Date).yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: position, value: '[x=664,y=338]'}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JDialog}
+    - {name: oMapClassName, value: javax.swing.JOptionPane#Dialog_1_-1}
+    - {name: size, value: '[width=262,height=118]'}
+    - {name: oMapClassSimpleName, value: JOptionPane#Dialog}
+    - {name: title, value: Message}
+    - {name: component.class.simpleName, value: JDialog}
+    - {name: name, value: dialog2}
+    - {name: component.class.name, value: javax.swing.JDialog}
+    - {name: accessibleContext.accessibleName, value: Message}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: javax.swing.JOptionPane#Dialog_1_-1}
+    containerTitles: [Message]
+    fileName: Message.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: position, value: '[x=225,y=27]'}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: size, value: '[width=1215,height=769]'}
+    - {name: title, value: UAT2 (ERSUAT2B) - Workflow Information Tool     Logged on as mike.gartlan}
+    - {name: component.class.simpleName, value: JFrame}
+    - {name: name, value: frame0}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: accessibleContext.accessibleName, value: UAT2 (ERSUAT2B) - Workflow Information Tool     Logged on as mike.gartlan}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: UAT2 (ERSUAT2B) - Workflow Information Tool     Logged on as mike.gartlan}
+    containerTitles: [UAT2 (ERSUAT2B) - Workflow Information Tool     Logged on as mike.gartlan]
+    fileName: UAT (LOCAL) - Workflow Information Tool.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: position, value: '[x=580,y=309]'}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JDialog}
+    - {name: oMapClassName, value: javax.swing.JFileChooser#Dialog}
+    - {name: size, value: '[width=517,height=326]'}
+    - {name: oMapClassSimpleName, value: JFileChooser#Dialog}
+    - {name: title, value: Save}
+    - {name: component.class.simpleName, value: JDialog}
+    - {name: name, value: dialog2}
+    - {name: component.class.name, value: javax.swing.JDialog}
+    - {name: accessibleContext.accessibleName, value: Save}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: javax.swing.JFileChooser#Dialog}
+    containerTitles: [Save]
+    fileName: Save.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: position, value: '[x=557,y=178]'}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JDialog}
+    - {name: oMapClassName, value: uk.co.edwt.frm.client.framework.StandardDialog}
+    - {name: size, value: '[width=550,height=520]'}
+    - {name: oMapClassSimpleName, value: StandardDialog}
+    - {name: title, value: Transaction Filter}
+    - {name: component.class.simpleName, value: StandardDialog}
+    - {name: name, value: dialog4}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.framework.StandardDialog}
+    - {name: accessibleContext.accessibleName, value: Transaction Filter}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: uk.co.edwt.frm.client.framework.StandardDialog}
+    containerTitles: [Transaction Filter]
+    fileName: Transaction Filter.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: position, value: '[x=65,y=132]'}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: size, value: '[width=1855,height=769]'}
+    - {name: title, value: UAT5 (ERSUAT5B) - Workflow Information Tool     Logged on as mike.gartlan}
+    - {name: component.class.simpleName, value: JFrame}
+    - {name: name, value: frame0}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: accessibleContext.accessibleName, value: UAT5 (ERSUAT5B) - Workflow Information Tool     Logged on as mike.gartlan}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: UAT5 (ERSUAT5B) - Workflow Information Tool     Logged on as mike.gartlan}
+    containerTitles: [UAT5 (ERSUAT5B) - Workflow Information Tool     Logged on as mike.gartlan]
+    fileName: UAT5 (ERSUAT5B) - Workflow Information Tool     Logged on as mik_2008570390466386822.yaml

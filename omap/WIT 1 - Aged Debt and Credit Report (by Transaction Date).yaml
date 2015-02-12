@@ -1,0 +1,67 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnSaveAsCSV}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1013,y=761]'}
+    - {name: accessibleName, value: Save as CSV...}
+    - {name: cText, value: Save as CSV...}
+    - {name: precedingLabel, value: 'Number of Rows Returned: 31600'}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnSaveAsCSV}
+    - {name: accessibleContext.accessibleName, value: Save as CSV...}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=135,height=25]'}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Save as CSV...}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Save as CSV...}
+    name: Save as CSV...
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: pnlRowOne}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EPanel}
+    generalProperties:
+    - {name: position, value: '[x=252,y=103]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.EPanel}
+    - {name: fieldName, value: pnlRowOne}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JPanel}
+    - {name: size, value: '[width=1183,height=29]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EPanel}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EPanel}
+    name: pnlRowOne
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: table.JTableHeader}
+    - {method: equals, name: indexOfType, value: '0'}
+    - {method: equals, name: 'Content[0][3]', value: CSA_USER_NAME}
+    - {method: equals, name: 'Content[0][4]', value: CUSTOMER_ACCOUNT}
+    generalProperties:
+    - {name: position, value: '[x=254,y=174]'}
+    - {name: type, value: table.JTableHeader}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.table.JTableHeader}
+    - {name: size, value: '[width=1163,height=19]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JTableHeader}
+    - {name: component.class.name, value: javax.swing.table.JTableHeader}
+    name: table.JTableHeader_0
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblResults}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=254,y=193]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblResults}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1163,height=458]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblResults

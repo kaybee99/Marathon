@@ -1,0 +1,7 @@
+TC_10257_CashflowWorkflowInformationQueries
+TC_10269_R2Print
+TC_19144_StatementOfAccount
+TC_19773_disputeOfInvoice
+TC_19774_ChangeofCustomerDetails
+TC_5544_FinanceWorkflowInformationQueries
+TC_8766_CreateAdhocInvoice

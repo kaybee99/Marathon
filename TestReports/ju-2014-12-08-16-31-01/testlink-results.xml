@@ -1,0 +1,14 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<results>
+<!-- Project name: 'rubyTrial' - Report dir: 'ju-2014-12-08-16-31-01' - START -->
+<testcase external_id="testMikeDemo - Extracted Data" >
+<result>f</result>
+<notes><![CDATA[net.sourceforge.marathon.junit.MarathonAssertion: Application under test aborted - use set_no_fail_on_exit to suppress this error
+	Failure: Application under test aborted - use set_no_fail_on_exit to suppress this error
+	at System.exit(internal:1)
+	at net.sourceforge.marathon.junit.MarathonTestCase.confirmResult(MarathonTestCase.java:213)
+	at net.sourceforge.marathon.junit.MarathonTestCase.runTest(MarathonTestCase.java:153)
+]]></notes>
+</testcase>
+<!-- Project name: 'rubyTrial' - Report dir: 'ju-2014-12-08-16-31-01' - END -->
+</results>

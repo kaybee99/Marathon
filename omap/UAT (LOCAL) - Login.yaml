@@ -1,0 +1,70 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtUsername}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETextField}
+    generalProperties: null
+    name: txtUsername
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtPassword}
+    - {method: equals, name: type, value: JPasswordField}
+    generalProperties: null
+    name: txtPassword
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnLogin}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties: null
+    name: btnLogin
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: welcomeMessagePanel}
+    - {method: equals, name: type, value: uk.co.edwt.usc.client.maintenance.WelcomeMessagePanel}
+    generalProperties:
+    - {name: position, value: '[x=579,y=175]'}
+    - {name: type, value: uk.co.edwt.usc.client.maintenance.WelcomeMessagePanel}
+    - {name: fieldName, value: welcomeMessagePanel}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JPanel}
+    - {name: size, value: '[width=924,height=379]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: WelcomeMessagePanel}
+    - {name: component.class.name, value: uk.co.edwt.usc.client.maintenance.WelcomeMessagePanel}
+    name: welcomeMessagePanel
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnLogout}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1369,y=730]'}
+    - {name: accessibleName, value: Exit}
+    - {name: cText, value: Exit}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnLogout}
+    - {name: accessibleContext.accessibleName, value: Exit}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=84,height=24]'}
+    - {name: layoutData.x, value: '1.0'}
+    - {name: layoutData.y, value: '0.0'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Exit}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Exit}
+    name: Exit
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: pnlDetails}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EPanel}
+    generalProperties:
+    - {name: position, value: '[x=1198,y=713]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.EPanel}
+    - {name: fieldName, value: pnlDetails}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JPanel}
+    - {name: size, value: '[width=255,height=83]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: EPanel}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EPanel}
+    name: pnlDetails

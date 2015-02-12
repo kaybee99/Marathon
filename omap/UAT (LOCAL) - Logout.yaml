@@ -1,0 +1,15 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtUsername}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETextField}
+    generalProperties:
+    - {name: position, value: '[x=2978,y=675]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETextField}
+    - {name: fieldName, value: txtUsername}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=173,height=22]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETextField}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETextField}
+    name: txtUsername

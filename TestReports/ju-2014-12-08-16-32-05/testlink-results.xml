@@ -1,0 +1,45 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<results>
+<!-- Project name: 'rubyTrial' - Report dir: 'ju-2014-12-08-16-32-05' - START -->
+<!-- Testsuite name: 'AllTests' - START -->
+  <!-- Testsuite name: 'testMikeDemo' - START -->
+    <testcase external_id="testMikeDemo - Extracted Data" >
+    <result>f</result>
+    <notes><![CDATA[net.sourceforge.marathon.junit.MarathonAssertion: Application under test aborted - use set_no_fail_on_exit to suppress this error
+	Failure: Application under test aborted - use set_no_fail_on_exit to suppress this error
+	at System.exit(internal:1)
+	at net.sourceforge.marathon.junit.MarathonTestCase.confirmResult(MarathonTestCase.java:213)
+	at net.sourceforge.marathon.junit.MarathonTestCase.runTest(MarathonTestCase.java:153)
+]]></notes>
+    </testcase>
+  <!-- Testsuite name: 'testMikeDemo' - END -->
+  <!-- Testsuite name: 'testPOC1' - START -->
+    <testcase external_id="testPOC1 - Extracted Data" >
+    <result>b</result>
+    <notes><![CDATA[net.sourceforge.rmilite.RemoteInvocationException: error invoking createScript: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at net.sourceforge.rmilite.impl.LocalInvocationHandlerImpl.invokeRemote(LocalInvocationHandlerImpl.java:70)
+	at net.sourceforge.rmilite.impl.LocalInvocationHandlerImpl.invoke(LocalInvocationHandlerImpl.java:56)
+	at com.sun.proxy.$Proxy14.createScript(Unknown Source)
+	at net.sourceforge.marathon.runtime.JavaRuntimeLeash.createScript(JavaRuntimeLeash.java:120)
+	at net.sourceforge.marathon.junit.MarathonTestCase.runTest(MarathonTestCase.java:144)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.StreamRemoteCall.executeCall(Unknown Source)
+	at sun.rmi.server.UnicastRef.invoke(Unknown Source)
+	at net.sourceforge.rmilite.impl.RemoteInvocationHandlerImpl_Stub.invoke(Unknown Source)
+	at net.sourceforge.rmilite.impl.LocalInvocationHandlerImpl.invokeRemote(LocalInvocationHandlerImpl.java:66)
+	... 14 more
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	... 18 more
+]]></notes>
+    </testcase>
+  <!-- Testsuite name: 'testPOC1' - END -->
+<!-- Testsuite name: 'AllTests' - END -->
+<!-- Project name: 'rubyTrial' - Report dir: 'ju-2014-12-08-16-32-05' - END -->
+</results>

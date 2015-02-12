@@ -1,0 +1,159 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: Document Type}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    generalProperties:
+    - {name: position, value: '[x=663,y=225]'}
+    - {name: precedingLabel, value: Document Type}
+    - {name: type, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    - {name: fieldName, value: cmbCombo}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComboBox}
+    - {name: size, value: '[width=432,height=22]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EComboBoxOld}
+    - {name: actionCommand, value: comboBoxChanged}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    name: Document Type
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: Customer Name}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETextField}
+    generalProperties:
+    - {name: position, value: '[x=1239,y=226]'}
+    - {name: precedingLabel, value: Customer Name}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETextField}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=156,height=21]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETextField}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETextField}
+    name: Customer Name
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Search}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1400,y=313]'}
+    - {name: accessibleName, value: Search}
+    - {name: cText, value: Search}
+    - {name: precedingLabel, value: Max Rows}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: accessibleContext.accessibleName, value: Search}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=83,height=25]'}
+    - {name: indexOfType, value: '5'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Search}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Search}
+    name: Search
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '1'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    generalProperties:
+    - {name: position, value: '[x=1283,y=180]'}
+    - {name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JToggleButton}
+    - {name: size, value: '[width=60,height=20]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: TabButton}
+    - {name: actionCommand, value: '1'}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: toolTipText, value: Confirm Printed Documents}
+    name: Confirm Printed Documents
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: 'Rows Returned: 50'}
+    - {method: equals, name: type, value: uk.co.edwt.pos.printrequest.PrintingControlTab$1}
+    generalProperties:
+    - {name: position, value: '[x=545,y=381]'}
+    - {name: precedingLabel, value: 'Rows Returned: 50'}
+    - {name: type, value: uk.co.edwt.pos.printrequest.PrintingControlTab$1}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=926,height=448]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: uk.co.edwt.pos.printrequest.PrintingControlTab$1}
+    name: 'Rows Returned: 50'
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Print}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1305,y=871]'}
+    - {name: accessibleName, value: Print}
+    - {name: cText, value: Print}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: accessibleContext.accessibleName, value: Print}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=68,height=25]'}
+    - {name: indexOfType, value: '4'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Print}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Print}
+    name: Print
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '2'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    generalProperties:
+    - {name: position, value: '[x=1248,y=195]'}
+    - {name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JToggleButton}
+    - {name: size, value: '[width=60,height=20]'}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.simpleName, value: TabButton}
+    - {name: actionCommand, value: '2'}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: toolTipText, value: Reprint Documents}
+    name: Reprint Documents
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '0'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    generalProperties:
+    - {name: position, value: '[x=1108,y=195]'}
+    - {name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JToggleButton}
+    - {name: size, value: '[width=60,height=20]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: TabButton}
+    - {name: actionCommand, value: '0'}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: toolTipText, value: Print Documents}
+    name: Print Documents
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Open...}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=860,y=871]'}
+    - {name: accessibleName, value: Open...}
+    - {name: cText, value: Open...}
+    - {name: precedingLabel, value: 'Rows Returned: 50'}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: accessibleContext.accessibleName, value: Open...}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=87,height=25]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Open...}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Open...}
+    name: Open...
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: 'Rows Returned: 17'}
+    - {method: equals, name: type, value: uk.co.edwt.pos.printrequest.PrintingControlTab$1}
+    generalProperties: null
+    name: PrintingRows

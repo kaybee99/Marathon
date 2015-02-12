@@ -1,0 +1,37 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: Unallocated}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    generalProperties:
+    - {name: position, value: '[x=812,y=437]'}
+    - {name: precedingLabel, value: Unallocated}
+    - {name: type, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    - {name: fieldName, value: cmbCombo}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComboBox}
+    - {name: size, value: '[width=124,height=20]'}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.simpleName, value: EComboBoxOld}
+    - {name: actionCommand, value: comboBoxChanged}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    name: Unallocated
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnOk}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1040,y=654]'}
+    - {name: accessibleName, value: OK}
+    - {name: cText, value: OK}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnOk}
+    - {name: accessibleContext.accessibleName, value: OK}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=54,height=25]'}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: OK}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: OK}
+    name: OK

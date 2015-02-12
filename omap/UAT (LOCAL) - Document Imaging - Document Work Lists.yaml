@@ -1,0 +1,17 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: iconBar}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    generalProperties:
+    - {name: position, value: '[x=466,y=168]'}
+    - {name: precedingLabel, value: '15:49:05'}
+    - {name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: fieldName, value: iconBar}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComponent}
+    - {name: size, value: '[width=32,height=760]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: IconBar}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: toolTipText, value: ' '}
+    name: '15:49:05'

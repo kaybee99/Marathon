@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<test projectname='rubyTrial' reportdir='ju-2014-12-08-16-27-22' >
+<testsuite name="AllTests" >
+  <testsuite name="testMikeDemo" >
+    <testcase name="testMikeDemo - Extracted Data" status="2" time="38.49" >
+<![CDATA[net.sourceforge.marathon.junit.MarathonAssertion: Application under test aborted - use set_no_fail_on_exit to suppress this error
+	Failure: Application under test aborted - use set_no_fail_on_exit to suppress this error
+	at System.exit(internal:1)
+	at net.sourceforge.marathon.junit.MarathonTestCase.confirmResult(MarathonTestCase.java:213)
+	at net.sourceforge.marathon.junit.MarathonTestCase.runTest(MarathonTestCase.java:153)
+    ]]></testcase>
+  </testsuite>
+  <testsuite name="testPOC1" >
+    <testcase name="testPOC1 - Extracted Data" status="1" time="151.747" >
+<![CDATA[java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Object.wait(Object.java:503)
+	at net.sourceforge.marathon.junit.MarathonTestCase.runTest(MarathonTestCase.java:151)
+    ]]></testcase>
+  </testsuite>
+</testsuite>
+</test>

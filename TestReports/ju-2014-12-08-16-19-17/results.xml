@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<test projectname='rubyTrial' reportdir='ju-2014-12-08-16-19-17' >
+<testsuite name="AllTests" >
+  <testsuite name="testMikeDemo" >
+    <testcase name="testMikeDemo - Extracted Data" status="0" time="42.978" >
+    </testcase>
+  </testsuite>
+</testsuite>
+</test>

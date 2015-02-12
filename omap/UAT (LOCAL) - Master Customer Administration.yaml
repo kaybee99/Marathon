@@ -1,0 +1,534 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    - {method: equals, name: indexOfType, value: '1'}
+    generalProperties:
+    - {name: position, value: '[x=284,y=293]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: fieldName, value: iconBar}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComponent}
+    - {name: size, value: '[width=891,height=34]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: IconBar}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: toolTipText, value: ' '}
+    name: iconBar
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '4'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    generalProperties:
+    - {name: position, value: '[x=1027,y=174]'}
+    - {name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JToggleButton}
+    - {name: size, value: '[width=60,height=50]'}
+    - {name: indexOfType, value: '6'}
+    - {name: component.class.simpleName, value: TabButton}
+    - {name: actionCommand, value: '4'}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: toolTipText, value: Billing}
+    name: Billing
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '5'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    generalProperties:
+    - {name: position, value: '[x=1097,y=174]'}
+    - {name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JToggleButton}
+    - {name: size, value: '[width=60,height=50]'}
+    - {name: indexOfType, value: '8'}
+    - {name: component.class.simpleName, value: TabButton}
+    - {name: actionCommand, value: '5'}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: toolTipText, value: Ledger}
+    name: Ledger
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblAppIssBills}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=536,y=305]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblAppIssBills}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=890,height=16]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblAppIssBills
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnAIBViewMpan}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EImageButton}
+    generalProperties:
+    - {name: position, value: '[x=572,y=876]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.EImageButton}
+    - {name: fieldName, value: btnAIBViewMpan}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=32,height=32]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: EImageButton}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EImageButton}
+    - {name: toolTipText, value: View MPAN Billing}
+    name: View MPAN Billing
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnAIBSetReadyAndIssue}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=2887,y=787]'}
+    - {name: accessibleName, value: Set Ready & Issue}
+    - {name: cText, value: Set Ready & Issue}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnAIBSetReadyAndIssue}
+    - {name: accessibleContext.accessibleName, value: Set Ready & Issue}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=137,height=26]'}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Set Ready & Issue}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Set Ready & Issue}
+    name: Set Ready & Issue
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: '20:11:18'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    generalProperties:
+    - {name: position, value: '[x=108,y=268]'}
+    - {name: precedingLabel, value: '20:11:18'}
+    - {name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: fieldName, value: iconBar}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComponent}
+    - {name: size, value: '[width=32,height=855]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: IconBar}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: toolTipText, value: ' '}
+    name: '20:11:18'
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: '20:11:36'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    generalProperties:
+    - {name: position, value: '[x=108,y=268]'}
+    - {name: precedingLabel, value: '20:11:36'}
+    - {name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: fieldName, value: iconBar}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComponent}
+    - {name: size, value: '[width=32,height=855]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: IconBar}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: toolTipText, value: ' '}
+    name: '20:11:36'
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: table.JTableHeader}
+    - {method: equals, name: indexOfType, value: '0'}
+    generalProperties:
+    - {name: position, value: '[x=314,y=547]'}
+    - {name: type, value: table.JTableHeader}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.table.JTableHeader}
+    - {name: size, value: '[width=1706,height=19]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JTableHeader}
+    - {name: component.class.name, value: javax.swing.table.JTableHeader}
+    name: table.JTableHeader_0
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblTransactions}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=314,y=566]'}
+    - {name: precedingLabel, value: '20:22:06'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblTransactions}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1706,height=509]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: '20:22:06'
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties: &id001
+    - {method: equals, name: fieldName, value: tblTransactions}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {method: equals, name: 'Content[0][1]', value: Credit Note}
+    - {method: equals, name: 'Content[0][5]', value: '1100039625083'}
+    - {method: equals, name: 'Content[0][10]', value: CN1000211990}
+    generalProperties:
+    - {name: position, value: '[x=149,y=361]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblTransactions}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1419,height=16]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblTransactions
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties: *id001
+    generalProperties:
+    - {name: position, value: '[x=149,y=361]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblTransactions}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1419,height=16]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblTransactions
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties: *id001
+    generalProperties:
+    - {name: position, value: '[x=149,y=361]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblTransactions}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1419,height=16]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblTransactions
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblTransactions}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=149,y=361]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblTransactions}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1419,height=16]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblTransactions_4
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '5'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    generalProperties:
+    - {name: position, value: '[x=1235,y=100]'}
+    - {name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JToggleButton}
+    - {name: size, value: '[width=60,height=50]'}
+    - {name: indexOfType, value: '7'}
+    - {name: component.class.simpleName, value: TabButton}
+    - {name: actionCommand, value: '5'}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: toolTipText, value: Ledger}
+    name: Ledger
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: '12:23:13'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    generalProperties:
+    - {name: position, value: '[x=73,y=94]'}
+    - {name: precedingLabel, value: '12:23:13'}
+    - {name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: fieldName, value: iconBar}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComponent}
+    - {name: size, value: '[width=32,height=697]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: IconBar}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: toolTipText, value: ' '}
+    name: '12:23:13'
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblTransactions}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {method: equals, name: ClassName, value: uk.co.edwt.frm.client.components.ETable}
+    - {method: equals, name: Content, value: '[[2014-11-21 12:28:02.0, Credit Note,
+            2014-10-01 00:00:00.0, 2014-10-31 00:00:00.0, DSG, 1580000290341, Import,
+            0054996, SUNDERLAND ROAD 04907, 134888, CN1000209089, -2594.25, -2594.25,
+            , Y, 2014-11-25 11:25:21.0, , 2015-01-22 00:00:00.0, , 3931], [2015-01-15
+            10:40:52.0, Credit Note, 2013-05-20 00:00:00.0, 2013-05-31 00:00:00.0,
+            Z, 1200061360120, Import, 0061957, BELL GREEN RETAIL PARK, 149087, CN1000211987,
+            -244.62, -244.62, , Y, 2015-01-15 10:40:52.0, , 2015-01-29 10:40:52.0,
+            , 3951], [2015-01-15 15:39:44.0, Credit Note, 2013-09-10 00:00:00.0, 2013-09-30
+            00:00:00.0, DSG, 1030057626961, Import, 0068039, UNIT D1, 204627, CN1000211988,
+            -2635.41, -2635.41, , Y, 2015-01-15 15:39:45.0, , 2015-01-29 15:39:44.0,
+            , 3951], [2015-01-16 10:18:51.0, Credit Note, 2013-10-01 00:00:00.0, 2013-10-31
+            00:00:00.0, DSG, 1030057626961, Import, 0068039, UNIT D1, 204627, CN1000211989,
+            -3169.56, -3169.56, , Y, 2015-01-16 10:18:51.0, , 2015-01-30 10:18:51.0,
+            , 3952], [2015-01-16 15:19:29.0, Credit Note, 2013-04-01 00:00:00.0, 2013-04-30
+            00:00:00.0, Z, 1014569323786, Import, 0069456, Unit 3 Mayflower Retail
+            Park, 134888, CN1000211992, -4034.51, -4034.51, , Y, 2015-01-16 15:19:29.0,
+            , 2015-01-30 15:19:29.0, , 3952], [2015-01-16 16:32:47.0, Credit Note,
+            2013-04-01 00:00:00.0, 2013-04-30 00:00:00.0, Z, 1014569404283, Import,
+            0054839, NORWICH 00789, 134888, CN1000211993, -3653.20, -3653.2, , Y,
+            2015-01-16 16:32:47.0, , 2015-01-30 16:32:47.0, , 3952], [2015-01-19 10:28:19.0,
+            Credit Note, 2013-04-01 00:00:00.0, 2013-04-30 00:00:00.0, Z, 1014570042992,
+            Import, 0054840, HARLOW 00727, 134888, CN1000211994, -2928.40, -2928.4,
+            , Y, 2015-01-19 10:28:19.0, , 2015-02-02 10:28:19.0, , 0], [2015-01-19
+            10:35:38.0, Credit Note, 2013-04-01 00:00:00.0, 2013-04-30 00:00:00.0,
+            Z, 1014570390294, Import, 0054841, HEMEL HEMPSTEAD 08863, 134888, CN1000211995,
+            -827.25, -827.25, , Y, 2015-01-19 10:35:38.0, , 2015-02-02 10:35:38.0,
+            , 0], [2015-01-19 10:51:04.0, Credit Note, 2013-04-01 00:00:00.0, 2013-04-30
+            00:00:00.0, Z, 1014570477235, Import, 0054842, BEDFORD 02216, 134888,
+            CN1000211996, -3022.00, -3022, , Y, 2015-01-19 10:51:04.0, , 2015-02-02
+            10:51:04.0, , 0], [2015-01-19 11:11:35.0, Credit Note, 2013-04-01 00:00:00.0,
+            2013-04-30 00:00:00.0, Z, 1014570507590, Import, 0054843, ENFIELD 02171,
+            134888, CN1000211997, -2578.19, -2578.19, , Y, 2015-01-19 11:11:35.0,
+            , 2015-02-02 11:11:35.0, , 0], [2015-01-19 11:28:49.0, Credit Note, 2014-01-01
+            00:00:00.0, 2014-01-31 00:00:00.0, DSG, 1030006025777, Import, 0069871,
+            Aylesbury 2in1-SS and cost centr, 252554, CN1000211998, -4486.20, -4486.2,
+            , Y, 2015-01-19 11:28:49.0, , 2015-02-02 11:28:49.0, , 0], [2015-01-19
+            11:39:14.0, Credit Note, 2013-11-05 00:00:00.0, 2013-11-30 00:00:00.0,
+            DSG C, 2336555184227, Import, 0069962, Rotherham (Unit 15 Retail World),
+            250587, CN1000211999, -1211.16, -1211.16, , Y, 2015-01-19 11:39:14.0,
+            , 2015-02-02 11:39:14.0, , 0]]'}
+    generalProperties:
+    - {name: position, value: '[x=-24,y=361]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblTransactions}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1261,height=192]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblTransactions_3
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblTransactions}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=149,y=361]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblTransactions}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1419,height=96]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblTransactions_5
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: iconBar}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    generalProperties:
+    - {name: position, value: '[x=235,y=94]'}
+    - {name: precedingLabel, value: '19:56:27'}
+    - {name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: fieldName, value: iconBar}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComponent}
+    - {name: size, value: '[width=32,height=855]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: IconBar}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.IconBar}
+    - {name: toolTipText, value: ' '}
+    name: '19:56:27'
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtBalance}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ECurrencyItem}
+    - {method: equals, name: CText, value: -£26.80}
+    - {method: equals, name: FieldName, value: txtBalance}
+    generalProperties:
+    - {name: position, value: '[x=1038,y=242]'}
+    - {name: cText, value: -£26.80}
+    - {name: precedingLabel, value: Balance}
+    - {name: type, value: uk.co.edwt.frm.client.components.ECurrencyItem}
+    - {name: fieldName, value: txtBalance}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=531,height=19]'}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.simpleName, value: ECurrencyItem}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ECurrencyItem}
+    name: Balance
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtUnallocatedDebits}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ECurrencyItem}
+    generalProperties:
+    - {name: position, value: '[x=291,y=242]'}
+    - {name: cText, value: £0.00}
+    - {name: precedingLabel, value: Unallocated debits}
+    - {name: type, value: uk.co.edwt.frm.client.components.ECurrencyItem}
+    - {name: fieldName, value: txtUnallocatedDebits}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=531,height=19]'}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.simpleName, value: ECurrencyItem}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ECurrencyItem}
+    name: Unallocated debits
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: Unallocated}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    generalProperties:
+    - {name: position, value: '[x=812,y=437]'}
+    - {name: precedingLabel, value: Unallocated}
+    - {name: type, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    - {name: fieldName, value: cmbCombo}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComboBox}
+    - {name: size, value: '[width=124,height=20]'}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.simpleName, value: EComboBoxOld}
+    - {name: actionCommand, value: comboBoxChanged}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    name: Unallocated
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: toolTipText, value: Customer}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    generalProperties:
+    - {name: position, value: '[x=885,y=100]'}
+    - {name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JToggleButton}
+    - {name: size, value: '[width=60,height=50]'}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.simpleName, value: TabButton}
+    - {name: actionCommand, value: '0'}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: toolTipText, value: Customer}
+    name: Customer
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnFilter}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1385,y=742]'}
+    - {name: accessibleName, value: Filter...}
+    - {name: cText, value: Filter...}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnFilter}
+    - {name: accessibleContext.accessibleName, value: Filter...}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=86,height=25]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Filter...}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Filter...}
+    name: Filter...
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblAccountRoles}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=129,y=461]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblAccountRoles}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=793,height=16]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: 'tblAccountRoles'
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: uk.co.edwt.wfm.client.status.WorkflowStatusPanel}
+    - {method: equals, name: type, value: JMenuItem}
+    generalProperties:
+    - {name: position, value: '[x=84,y=540]'}
+    - {name: accessibleName, value: Workflow Information Tool}
+    - {name: cText, value: Workflow Information Tool}
+    - {name: type, value: JMenuItem}
+    - {name: accessibleContext.accessibleName, value: Workflow Information Tool}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JMenuItem}
+    - {name: size, value: '[width=341,height=21]'}
+    - {name: indexOfType, value: '21'}
+    - {name: component.class.simpleName, value: JMenuItem}
+    - {name: actionCommand, value: uk.co.edwt.wfm.client.status.WorkflowStatusPanel}
+    - {name: component.class.name, value: javax.swing.JMenuItem}
+    - {name: buttonText, value: Workflow Information Tool}
+    name: Workflow Information Tool
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: pnlStatusMessages}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EPanel}
+    generalProperties:
+    - {name: position, value: '[x=108,y=195]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.EPanel}
+    - {name: fieldName, value: pnlStatusMessages}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JPanel}
+    - {name: size, value: '[width=1802,height=38]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EPanel}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EPanel}
+    name: pnlStatusMessages
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '6'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    generalProperties:
+    - {name: position, value: '[x=1625,y=243]'}
+    - {name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JToggleButton}
+    - {name: size, value: '[width=60,height=50]'}
+    - {name: indexOfType, value: '8'}
+    - {name: component.class.simpleName, value: TabButton}
+    - {name: actionCommand, value: '6'}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: toolTipText, value: Pay Plans}
+    name: Pay Plans
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnOk}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1040,y=654]'}
+    - {name: accessibleName, value: OK}
+    - {name: cText, value: OK}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnOk}
+    - {name: accessibleContext.accessibleName, value: OK}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=54,height=25]'}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: OK}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: OK}
+    name: OK
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: lblLogo}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ELabel}
+    generalProperties:
+    - {name: position, value: '[x=486,y=132]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ELabel}
+    - {name: fieldName, value: lblLogo}
+    - {name: enabled, value: 'true'}
+    - {name: iconFile, value: edlogo_sq}
+    - {name: instanceOf, value: javax.swing.JLabel}
+    - {name: size, value: '[width=38,height=38]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ELabel}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ELabel}
+    - {name: toolTipText, value: Home}
+    name: Home

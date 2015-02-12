@@ -1,0 +1,31 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblTrxs}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=172,y=215]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblTrxs}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1564,height=55]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblTrxs
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnViewDoc}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EImageButton}
+    generalProperties:
+    - {name: position, value: '[x=1562,y=924]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.EImageButton}
+    - {name: fieldName, value: btnViewDoc}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=32,height=32]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: EImageButton}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EImageButton}
+    - {name: toolTipText, value: View Doc...}
+    name: View Doc...

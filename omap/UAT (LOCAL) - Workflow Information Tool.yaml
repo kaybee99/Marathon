@@ -1,0 +1,52 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: Filter}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETextField}
+    generalProperties:
+    - {name: position, value: '[x=160,y=95]'}
+    - {name: precedingLabel, value: Filter}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETextField}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=1435,height=19]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETextField}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETextField}
+    name: Filter
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Select And Query...}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1152,y=761]'}
+    - {name: accessibleName, value: Select And Query...}
+    - {name: cText, value: Select And Query...}
+    - {name: precedingLabel, value: '11:55:52'}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: accessibleContext.accessibleName, value: Select And Query...}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=170,height=25]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Select And Query...}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Select And Query...}
+    name: Select And Query...
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: lblLogo}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ELabel}
+    generalProperties:
+    - {name: position, value: '[x=486,y=132]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ELabel}
+    - {name: fieldName, value: lblLogo}
+    - {name: enabled, value: 'true'}
+    - {name: iconFile, value: edlogo_sq}
+    - {name: instanceOf, value: javax.swing.JLabel}
+    - {name: size, value: '[width=38,height=38]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ELabel}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ELabel}
+    - {name: toolTipText, value: Home}
+    name: Home

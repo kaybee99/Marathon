@@ -1,0 +1,90 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: navigationPanel}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.framework.NavigationPanel}
+    generalProperties: null
+    name: navigationPanel
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: iconBar}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.IconBar}
+    generalProperties: null
+    name: iconBar
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: uk.co.edwt.pos.enquirysearch.Main_CustomerEnquirySearch}
+    - {method: equals, name: type, value: JMenuItem}
+    generalProperties: null
+    name: Customer Enquiry
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: pnlStatusMessages}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EPanel}
+    generalProperties: null
+    name: pnlStatusMessages
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: uk.co.edwt.pos.printrequest.PrintingControl}
+    - {method: equals, name: type, value: JMenuItem}
+    generalProperties: null
+    name: Printing R2
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Main Menu}
+    - {method: equals, name: type, value: JMenu}
+    generalProperties: null
+    name: Main Menu BAK
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: lblLogo}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ELabel}
+    generalProperties:
+    - {name: position, value: '[x=486,y=132]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ELabel}
+    - {name: fieldName, value: lblLogo}
+    - {name: enabled, value: 'true'}
+    - {name: iconFile, value: edlogo_sq}
+    - {name: instanceOf, value: javax.swing.JLabel}
+    - {name: size, value: '[width=38,height=38]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ELabel}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ELabel}
+    - {name: toolTipText, value: Home}
+    name: Home
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Main Menu}
+    - {method: equals, name: type, value: JMenu}
+    generalProperties:
+    - {name: position, value: '[x=244,y=177]'}
+    - {name: accessibleName, value: Main Menu}
+    - {name: cText, value: Main Menu}
+    - {name: type, value: JMenu}
+    - {name: accessibleContext.accessibleName, value: Main Menu}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JMenu}
+    - {name: size, value: '[width=119,height=19]'}
+    - {name: indexOfType, value: '4'}
+    - {name: component.class.simpleName, value: JMenu}
+    - {name: actionCommand, value: Main Menu}
+    - {name: component.class.name, value: javax.swing.JMenu}
+    - {name: buttonText, value: Main Menu}
+    name: Main Menu
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: buttonText, value: Workflow Information Tool}
+    generalProperties:
+    - {name: position, value: '[x=360,y=660]'}
+    - {name: accessibleName, value: Workflow Information Tool}
+    - {name: cText, value: Workflow Information Tool}
+    - {name: type, value: JMenuItem}
+    - {name: accessibleContext.accessibleName, value: Workflow Information Tool}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JMenuItem}
+    - {name: size, value: '[width=341,height=21]'}
+    - {name: indexOfType, value: '21'}
+    - {name: component.class.simpleName, value: JMenuItem}
+    - {name: actionCommand, value: uk.co.edwt.wfm.client.status.WorkflowStatusPanel}
+    - {name: component.class.name, value: javax.swing.JMenuItem}
+    - {name: buttonText, value: Workflow Information Tool}
+    name: Workflow Information Tool

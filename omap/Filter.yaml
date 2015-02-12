@@ -1,0 +1,597 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '0'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    generalProperties:
+    - {name: position, value: '[x=1199,y=395]'}
+    - {name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JToggleButton}
+    - {name: size, value: '[width=60,height=20]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: TabButton}
+    - {name: actionCommand, value: '0'}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: toolTipText, value: Details}
+    name: Details
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnAdd}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=899,y=632]'}
+    - {name: accessibleName, value: Add}
+    - {name: cText, value: Add}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnAdd}
+    - {name: accessibleContext.accessibleName, value: Add}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=56,height=26]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Add}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Add}
+    name: Add
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: MPAN}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    generalProperties:
+    - {name: position, value: '[x=808,y=429]'}
+    - {name: precedingLabel, value: MPAN}
+    - {name: type, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    - {name: fieldName, value: cmbCombo}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComboBox}
+    - {name: size, value: '[width=364,height=22]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: EComboBoxOld}
+    - {name: actionCommand, value: comboBoxChanged}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    name: MPAN
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtNetAmount}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ECurrencyItem}
+    generalProperties:
+    - {name: position, value: '[x=803,y=496]'}
+    - {name: precedingLabel, value: Net Amount}
+    - {name: type, value: uk.co.edwt.frm.client.components.ECurrencyItem}
+    - {name: fieldName, value: txtNetAmount}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=187,height=20]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ECurrencyItem}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ECurrencyItem}
+    name: Net Amount
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '1'}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    generalProperties:
+    - {name: position, value: '[x=1269,y=395]'}
+    - {name: type, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JToggleButton}
+    - {name: size, value: '[width=60,height=20]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: TabButton}
+    - {name: actionCommand, value: '1'}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.subpanels.TabButton}
+    - {name: toolTipText, value: Confirm}
+    name: Confirm
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: edtMessage}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETextPane}
+    generalProperties:
+    - {name: position, value: '[x=587,y=446]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETextPane}
+    - {name: fieldName, value: edtMessage}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextPane}
+    - {name: size, value: '[width=383,height=176]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: ETextPane}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETextPane}
+    name: edtMessage
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnConfirm}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1261,y=638]'}
+    - {name: accessibleName, value: Confirm}
+    - {name: cText, value: Confirm}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnConfirm}
+    - {name: accessibleContext.accessibleName, value: Confirm}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=79,height=26]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Confirm}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Confirm}
+    name: btnConfirm
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnCancel}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1065,y=666]'}
+    - {name: accessibleName, value: Cancel}
+    - {name: cText, value: Cancel}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnCancel}
+    - {name: accessibleContext.accessibleName, value: Cancel}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=66,height=27]'}
+    - {name: layoutData.x, value: '0.0'}
+    - {name: layoutData.y, value: '1.0'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Cancel}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Cancel}
+    name: Cancel
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnOK}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=2800,y=746]'}
+    - {name: accessibleName, value: OK}
+    - {name: cText, value: OK}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnOK}
+    - {name: accessibleContext.accessibleName, value: OK}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=51,height=26]'}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: OK}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: OK}
+    name: OK
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtContactName}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    generalProperties:
+    - {name: position, value: '[x=906,y=435]'}
+    - {name: precedingLabel, value: Contact Name}
+    - {name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    - {name: fieldName, value: txtContactName}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=257,height=19]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: ELimitedTextItem}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    name: Contact Name
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtBusinessName}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    generalProperties: null
+    name: Business Name
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: defaultButton}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties: null
+    name: 'Yes'
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtNewFaxNumber}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    generalProperties: null
+    name: Fax
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtCompanyRegNo}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    generalProperties: null
+    name: Company Reg No.
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtNewTelephoneNumber}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    generalProperties:
+    - {name: position, value: '[x=906,y=459]'}
+    - {name: precedingLabel, value: Telephone}
+    - {name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    - {name: fieldName, value: txtNewTelephoneNumber}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=257,height=19]'}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.simpleName, value: ELimitedTextItem}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    name: Telephone
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtNewMobileNumber}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    generalProperties:
+    - {name: position, value: '[x=906,y=483]'}
+    - {name: precedingLabel, value: Mobile}
+    - {name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    - {name: fieldName, value: txtNewMobileNumber}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=257,height=19]'}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.simpleName, value: ELimitedTextItem}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    name: Mobile
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: txtNewEmailAddress}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    generalProperties:
+    - {name: position, value: '[x=906,y=531]'}
+    - {name: precedingLabel, value: Email}
+    - {name: type, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    - {name: fieldName, value: txtNewEmailAddress}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=257,height=19]'}
+    - {name: indexOfType, value: '5'}
+    - {name: component.class.simpleName, value: ELimitedTextItem}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ELimitedTextItem}
+    name: Email
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnSave}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EImageButton}
+    generalProperties: null
+    name: btnSave
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnClose}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties: null
+    name: Close
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: defaultButton}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties: null
+    name: 'Yes'
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: pnlDetails}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EPanel}
+    generalProperties:
+    - {name: position, value: '[x=737,y=337]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.EPanel}
+    - {name: fieldName, value: pnlDetails}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JPanel}
+    - {name: size, value: '[width=495,height=321]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: EPanel}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EPanel}
+    name: pnlDetails
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: Change of Responsibility Date}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETextField}
+    generalProperties:
+    - {name: position, value: '[x=1110,y=295]'}
+    - {name: precedingLabel, value: Change of Responsibility Date}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETextField}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: size, value: '[width=100,height=22]'}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.simpleName, value: ETextField}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETextField}
+    name: Change of Responsibility Date
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: chkCaseStatePending}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ECheckBox}
+    generalProperties:
+    - {name: position, value: '[x=649,y=325]'}
+    - {name: accessibleName, value: Pending}
+    - {name: cText, value: Pending}
+    - {name: type, value: uk.co.edwt.frm.client.components.ECheckBox}
+    - {name: fieldName, value: chkCaseStatePending}
+    - {name: accessibleContext.accessibleName, value: Pending}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JCheckBox}
+    - {name: size, value: '[width=371,height=23]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ECheckBox}
+    - {name: actionCommand, value: Pending}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ECheckBox}
+    - {name: buttonText, value: Pending}
+    name: Pending
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: chkCaseStateCompleted}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ECheckBox}
+    generalProperties:
+    - {name: position, value: '[x=649,y=353]'}
+    - {name: accessibleName, value: Completed}
+    - {name: cText, value: Completed}
+    - {name: type, value: uk.co.edwt.frm.client.components.ECheckBox}
+    - {name: fieldName, value: chkCaseStateCompleted}
+    - {name: accessibleContext.accessibleName, value: Completed}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JCheckBox}
+    - {name: size, value: '[width=371,height=23]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: ECheckBox}
+    - {name: actionCommand, value: Completed}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ECheckBox}
+    - {name: buttonText, value: Completed}
+    name: Completed
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: chkCaseStateError}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ECheckBox}
+    generalProperties:
+    - {name: position, value: '[x=649,y=381]'}
+    - {name: accessibleName, value: Error}
+    - {name: cText, value: Error}
+    - {name: type, value: uk.co.edwt.frm.client.components.ECheckBox}
+    - {name: fieldName, value: chkCaseStateError}
+    - {name: accessibleContext.accessibleName, value: Error}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JCheckBox}
+    - {name: size, value: '[width=371,height=23]'}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.simpleName, value: ECheckBox}
+    - {name: actionCommand, value: Error}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ECheckBox}
+    - {name: buttonText, value: Error}
+    name: Error
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblBills}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=76,y=368]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblBills}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1497,height=90]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblBills
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnSelect}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1367,y=470]'}
+    - {name: accessibleName, value: Dispute Bill(s)}
+    - {name: cText, value: Dispute Bill(s)}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnSelect}
+    - {name: accessibleContext.accessibleName, value: Dispute Bill(s)}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=132,height=25]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Dispute Bill(s)}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Dispute Bill(s)}
+    name: Dispute Bill(s)
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: precedingLabel, value: Billling Period}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    generalProperties:
+    - {name: position, value: '[x=849,y=432]'}
+    - {name: precedingLabel, value: Billling Period}
+    - {name: type, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    - {name: fieldName, value: cmbCombo}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComboBox}
+    - {name: size, value: '[width=378,height=24]'}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.simpleName, value: EComboBoxOld}
+    - {name: actionCommand, value: comboBoxChanged}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EComboBoxOld}
+    name: Billling Period
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnSave}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=1073,y=601]'}
+    - {name: accessibleName, value: Save}
+    - {name: cText, value: Save}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnSave}
+    - {name: accessibleContext.accessibleName, value: Save}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=68,height=25]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Save}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Save}
+    name: Save
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: cbxDocId}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ECheckBox}
+    generalProperties:
+    - {name: position, value: '[x=1048,y=307]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ECheckBox}
+    - {name: fieldName, value: cbxDocId}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JCheckBox}
+    - {name: size, value: '[width=21,height=21]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ECheckBox}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ECheckBox}
+    name: cbxDocId
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: rdoArchive}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ERadioButton}
+    generalProperties:
+    - {name: position, value: '[x=857,y=320]'}
+    - {name: accessibleName, value: Archive Table}
+    - {name: cText, value: Archive Table}
+    - {name: precedingLabel, value: Table to query}
+    - {name: type, value: uk.co.edwt.frm.client.components.ERadioButton}
+    - {name: fieldName, value: rdoArchive}
+    - {name: accessibleContext.accessibleName, value: Archive Table}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JRadioButton}
+    - {name: size, value: '[width=119,height=23]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ERadioButton}
+    - {name: actionCommand, value: Archive Table}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ERadioButton}
+    - {name: buttonText, value: Archive Table}
+    name: Archive Table
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: pnlChargeAmount}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ERaisedPanel}
+    generalProperties:
+    - {name: position, value: '[x=742,y=466]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ERaisedPanel}
+    - {name: fieldName, value: pnlChargeAmount}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JPanel}
+    - {name: size, value: '[width=490,height=125]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: ERaisedPanel}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ERaisedPanel}
+    name: pnlChargeAmount
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnAdd}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EImageButton}
+    generalProperties:
+    - {name: position, value: '[x=1710,y=912]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.EImageButton}
+    - {name: fieldName, value: btnAdd}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=36,height=32]'}
+    - {name: layoutData.x, value: '0.0'}
+    - {name: layoutData.y, value: '0.0'}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.simpleName, value: EImageButton}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EImageButton}
+    name: btnAdd
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: btnOk}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    generalProperties:
+    - {name: position, value: '[x=897,y=510]'}
+    - {name: accessibleName, value: Ok}
+    - {name: cText, value: Ok}
+    - {name: type, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: fieldName, value: btnOk}
+    - {name: accessibleContext.accessibleName, value: Ok}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=66,height=31]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: EStandardButton}
+    - {name: actionCommand, value: Ok}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.EStandardButton}
+    - {name: buttonText, value: Ok}
+    name: Ok
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblContractSupplyDetails}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=81,y=91]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblContractSupplyDetails}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1827,height=16]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblContractSupplyDetails
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblTariffsOnSupply}
+    - {method: equals, name: type, value: uk.co.edwt.pos.liveactions.MaintainChangeSupplyPoint$1}
+    generalProperties:
+    - {name: position, value: '[x=96,y=695]'}
+    - {name: type, value: uk.co.edwt.pos.liveactions.MaintainChangeSupplyPoint$1}
+    - {name: fieldName, value: tblTariffsOnSupply}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=1797,height=64]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: uk.co.edwt.pos.liveactions.MaintainChangeSupplyPoint$1}
+    name: tblTariffsOnSupply
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblContractTariffEles}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=762,y=287]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblContractTariffEles}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=450,height=16]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblContractTariffEles
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: tblMpans}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ETable}
+    generalProperties:
+    - {name: position, value: '[x=518,y=327]'}
+    - {name: type, value: uk.co.edwt.frm.client.components.ETable}
+    - {name: fieldName, value: tblMpans}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: size, value: '[width=940,height=16]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: ETable}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ETable}
+    name: tblMpans
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: chkSelectAll}
+    - {method: equals, name: type, value: uk.co.edwt.frm.client.components.ECheckBox}
+    generalProperties:
+    - {name: position, value: '[x=517,y=547]'}
+    - {name: accessibleName, value: Select / deselect all}
+    - {name: cText, value: Select / deselect all}
+    - {name: type, value: uk.co.edwt.frm.client.components.ECheckBox}
+    - {name: fieldName, value: chkSelectAll}
+    - {name: accessibleContext.accessibleName, value: Select / deselect all}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JCheckBox}
+    - {name: size, value: '[width=163,height=23]'}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.simpleName, value: ECheckBox}
+    - {name: actionCommand, value: Select / deselect all}
+    - {name: component.class.name, value: uk.co.edwt.frm.client.components.ECheckBox}
+    - {name: buttonText, value: Select / deselect all}
+    name: Select / deselect all
